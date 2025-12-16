@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Africa",
+  "base_artist": "TOTO",
+  "createdAt": "2025-12-16T07:34:34.788583Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Africa",
+      "artist": "TOTO",
+      "has_synced": true,
+      "path": "select/01_Africa_TOTO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hijo de Africa",
+      "artist": "MC Solaar",
+      "has_synced": true,
+      "path": "select/02_Hijo_de_Africa_MC_Solaar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heart of Africa",
+      "artist": "Martin Solveig",
+      "has_synced": false,
+      "path": "select/03_Heart_of_Africa_Martin_Solveig.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Africa Must Wake Up",
+      "artist": "Nas & Damian Marley feat. K'Naan",
+      "has_synced": true,
+      "path": "select/04_Africa_Must_Wake_Up_Nas_&_Damian_Marley_feat._K'Naan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Africa Must Wake Up (feat. K'naan)",
+      "artist": "Nas & Damian Marley",
+      "has_synced": true,
+      "path": "select/05_Africa_Must_Wake_Up_(feat._K'naan)_Nas_&_Damian_Marley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Africa VIP",
+      "artist": "The Others",
+      "has_synced": false,
+      "path": "select/06_Africa_VIP_The_Others.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Storms in Africa - 2009 Remaster",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/07_Storms_in_Africa_-_2009_Remaster_Enya.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Storms In Africa",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/08_Storms_In_Africa_Enya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Storms In Africa",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/09_Storms_In_Africa_Enya.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Storms In Africa, Pt. II",
+      "artist": "Enya",
+      "has_synced": false,
+      "path": "select/10_Storms_In_Africa,_Pt._II_Enya.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Storms in Africa",
+      "artist": "Neora",
+      "has_synced": false,
+      "path": "select/11_Storms_in_Africa_Neora.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Storms in Africa (Remix)",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/12_Storms_in_Africa_(Remix)_Enya.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "south africa",
+      "artist": "Baby Keem",
+      "has_synced": true,
+      "path": "select/13_south_africa_Baby_Keem.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Born in Africa - Original Radio Version",
+      "artist": "Dr. Alban",
+      "has_synced": true,
+      "path": "select/14_Born_in_Africa_-_Original_Radio_Version_Dr._Alban.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Born In Africa (Pierre J's Radio Remix)",
+      "artist": "Dr. Alban",
+      "has_synced": false,
+      "path": "select/15_Born_In_Africa_(Pierre_J's_Radio_Remix)_Dr._Alban.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Africa",
+      "artist": "D'Angelo",
+      "has_synced": false,
+      "path": "select/16_Africa_D'Angelo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Africa",
+      "artist": "Toto",
+      "has_synced": false,
+      "path": "select/pl_01_Africa_Toto.txt"
+    }
+  ]
+}
